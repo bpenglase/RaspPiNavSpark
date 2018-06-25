@@ -1,0 +1,59 @@
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Sat 21 Jun 2014 11:06:11 PM EDT
+
+BeginCmp
+TimeStamp = /539CE930;
+Reference = BT1;
+ValeurCmp = BATTERY;
+IdModule  = BAT-HLD-001-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /539CE064;
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /539CDD9F;
+Reference = IC1;
+ValeurCmp = DS3231S;
+IdModule  = SO16L;
+EndCmp
+
+BeginCmp
+TimeStamp = /539BDCC5;
+Reference = JP1;
+ValeurCmp = JUMPER;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /539657C5;
+Reference = P1;
+ValeurCmp = DIL24;
+IdModule  = DIP-24__600;
+EndCmp
+
+BeginCmp
+TimeStamp = /539654A6;
+Reference = P2;
+ValeurCmp = CONN_13X2;
+IdModule  = pin_array_13x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A64811;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A64820;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+EndListe
